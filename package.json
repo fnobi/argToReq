@@ -1,0 +1,21 @@
+{
+  "author": "Fujisawa Shin <shin@fnobi.com> (http://blog.fnobi.com/)",
+  "name": "argToReq",
+  "description": "convert arguments to http req object.",
+  "version": "0.0.1",
+  "homepage": "http://github.com/fnobi/argToReq",
+  "repository": {
+    "url": "https://github.com/fnobi/argToReq.git"
+  },
+  "scripts": {
+    "test": "buster test"
+  },
+  "dependencies": {
+    "buster": "*"
+  },
+  "devDependencies": {},
+  "optionalDependencies": {},
+  "engines": {
+    "node": "*"
+  }
+}
